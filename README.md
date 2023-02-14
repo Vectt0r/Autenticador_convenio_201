@@ -35,4 +35,15 @@ Seu desenvolvimento foi realizado para resolver um problema onde o governo do es
                                   4000	100000000000000	9990	3012023	21	46	182498
                                   
                                   
+                                  
+                                  
+                                  
+   EXEMPLO MENSAGEM DE ERRO:
+   
+                                  Registro de execução
+                                  16:08:14	Notificação	Execução iniciada
+                                  16:08:21	Informação	Erro na linha 29448. Total Esperado: 13990, Total: 16480
+                                  16:08:21	Informação	Erro na linha 38692. Total Esperado: 15990, Total: 15970
+                                  16:08:22	Notificação	Execução concluída
+                                  
 =======================================================================================================================================================                                  
