@@ -17,7 +17,7 @@ Seu desenvolvimento foi realizado para resolver um problema onde o governo do es
 - Caso aja algum erro o script mostrara no console uma mensagem com o numero da linha do erro, o total esperado e o total calculado.
 
   EXEMPLO:
-                        Valor de Cada Produto          Total               Numro da NF
+                       
 
                                   I                      k                      O
 
